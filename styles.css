@@ -1,0 +1,90 @@
+body.index {
+    background-color: #87CEFA;
+    margin-left: 250px;
+    /*border-left: 2px solid black;*/
+}
+
+h1 {
+    font-family: Cursive;
+    font-size: 50px;
+    border-top: 5px solid black;
+    border-bottom: 5px solid black;
+    border-radius: 10px;
+}
+
+#colortext {
+    color: greenyellow;
+}
+
+.scaleblock {
+    width: 300px;
+    float: left;
+    margin-left: 125px;
+}
+
+.center {
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+    color: orangered;
+}
+
+p.block1 {
+    text-align: justify;
+    margin-left: 500px;
+    justify-content: space-between;
+}
+
+.box {
+    display: inline-block;
+}
+
+#smaller {
+    width: 200px;
+}
+
+/*Menu*/
+ul.navbar {
+  position: absolute;
+  top: 30px;
+  left: 15px;
+  width: 150px;
+}
+
+ul.navbar li {
+    margin: 5px 0;
+    padding: 5px;
+    border-right: 1px solid #17252a;
+    border-top: 1px solid #17252a;
+    border-left: 10px solid #17252a;
+    border-bottom: 1px solid #17252a;
+    text-align: center;
+    vertical-align: text-top;
+}
+
+ul {
+    list-style-image: url(catpuce.png);
+}
+
+ul.navbar a {
+  text-decoration: none
+}
+
+a:link {
+  color: black;
+}
+
+a:visited {
+  color: black;
+}
+/*End Menu*/
+
+body.fun {
+    background-color: #87CEFA;
+}
+
+
+
+
